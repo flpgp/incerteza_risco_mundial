@@ -1,2 +1,2 @@
-# incerteza_risco_mundial
-Incerteza e Risco Mundiais.
+# uncertainty
+Indicadores de incerteza diversos. 
